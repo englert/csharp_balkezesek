@@ -1,4 +1,4 @@
-/* balkezesek.csv
+/*  balkezesek.csv:   http://www.infojegyzet.hu/vizsgafeladatok/okj-programozas/szoftverfejleszto-200204/
  0    1    2      3      4
 név;első;utolsó;súly;magasság
 Jim Abbott;1989-04-08;1999-07-21;200;75
